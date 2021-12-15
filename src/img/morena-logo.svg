@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="150.85925mm"
+   height="101.19021mm"
+   viewBox="0 0 150.85925 101.19021"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="morena-logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.77771465"
+     inkscape:cx="16.715643"
+     inkscape:cy="356.81468"
+     inkscape:window-width="2560"
+     inkscape:window-height="1387"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="214.08881"
+       y="250.09174"
+       width="428.17761"
+       height="102.22258"
+       id="rect23112" />
+    <rect
+       x="174.22842"
+       y="138.86841"
+       width="591.47656"
+       height="101.57968"
+       id="rect6884" />
+  </defs>
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-40.028959,-14.480851)">
+    <path
+       style="fill:#e40000;fill-opacity:0.395288;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 80.969071,31.29897 c 0,0 -57.154638,26.876287 -36.402062,58.855667 20.752577,31.979383 66.340201,24.835053 66.340201,24.835053 0,0 79.26805,-10.20618 74.50516,-32.319589 C 180.64948,60.5567 167.04124,23.474226 144.24742,15.989691 121.45361,8.5051544 80.969071,31.29897 80.969071,31.29897 Z"
+       id="path946" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.2644573,0.00816534,-0.00816534,0.2644573,-4.5134252,-0.16962614)"
+       id="text6882"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect6884);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="174.22852"
+         y="219.40429"
+         id="tspan42821"><tspan
+           style="font-weight:bold;font-size:85.3333px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi, Bold'"
+           id="tspan42819">MorenaAddons</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text23110"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect23112);fill:#000000;fill-opacity:1;stroke:none"
+       x="178.72771"
+       y="0"><tspan
+         x="248.80191"
+         y="286.58501"
+         id="tspan42825"><tspan
+           style="font-weight:300;font-size:37.3333px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';text-align:center;text-anchor:middle"
+           id="tspan42823">WordPress &amp; Elementor </tspan></tspan><tspan
+         x="279.31751"
+         y="337.0782"
+         id="tspan42829"><tspan
+           style="font-weight:300;font-size:37.3333px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';text-align:center;text-anchor:middle"
+           id="tspan42827">Plugins and Themes</tspan></tspan></text>
+  </g>
+</svg>
