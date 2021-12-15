@@ -1,5 +1,17 @@
+* {
+    font-family: Helvetica, sans-serif;
+}
+
 .main {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.projects {
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
 }
